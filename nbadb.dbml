@@ -101,5 +101,5 @@ Ref: PG.player_id > P.player_id
 Ref: PG.game_id > G.game_id
 Ref: PG.game_id > TG.game_id
 Ref: TG.game_id > G.game_id
-Ref: TG.Team_Abbrev - TG.Oppponent_Abbrev
+Ref: TG.Team_Abbrev - TG.Opponent_Abbrev
 
