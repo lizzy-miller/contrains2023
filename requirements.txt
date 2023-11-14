@@ -9,3 +9,5 @@ sqlalchemy==2.0.22
 xmltodict==0.13.0
 pymongo==4.6.0
 lxml==4.9.3
+dash==2.14.1
+dash-bootstrap-components==1.5.0
